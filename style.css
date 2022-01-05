@@ -9,7 +9,7 @@ h2 {
   font-size: 40px;
 }
 .orange-color {
-  color: orange;
+  color: #ff3b89;
 }
 .flexible-container {
   display: flex;
@@ -28,7 +28,7 @@ h2 {
 .link-button {
   text-decoration: none;
   color: white;
-  background-image: linear-gradient(orange, tomato);
+  background-image: linear-gradient(#ff3b89, #6256dc);
   padding: 10px 40px;
   font-weight: 700;
   border-radius: 5px;
@@ -43,7 +43,7 @@ h2 {
   background-position: right;
 }
 .dream-big div:last-child {
-  margin-right: 20px;
+  margin-right: 100px;
 }
 .experience-area {
   background-image: url(images/exp-bg.png);
@@ -64,12 +64,12 @@ h2 {
 }
 #full-stack-experience {
   border-left: 7px solid;
-  border-image: linear-gradient(#f80317, #0c0100);
+  border-image: linear-gradient(#ff3b89, #0c0100);
   border-image-slice: 1;
 }
 #web-dev-experience {
   border-left: 7px solid;
-  border-image: linear-gradient(#f72020, #0892e2);
+  border-image: linear-gradient(#ff3b89, #6256dc);
   border-image-slice: 1;
 }
 footer p {
